@@ -1,0 +1,7 @@
+1) Need to get an input from user
+    Needs to be between 1-8 and reppromt as necessary
+    Can this be done with a do while loop?
+2) Need to print out the number of '#s' per row with a 
+nested for loop bouncing off of itterator form the fist loop.
+3) Need to align them to the right somehow. 
+    Their mathod of a function...?
